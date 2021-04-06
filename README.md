@@ -1,2 +1,1 @@
-# Hello_Concordia
-hi humans!
+# COMP6231
